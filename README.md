@@ -5,7 +5,7 @@
 > [项目 GitHub 地址](https://github.com/Secriy/CloudMusic-LevelUp)
 
 ## 脚本功能
-
+杜赌毒追帅
 1. 登录网易云音乐
 2. 执行签到，并显示奖励的积分数值
 3. 刷音乐播放量，返回具体数值
